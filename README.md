@@ -3,7 +3,7 @@
 ### Установка
 1. Скопировать репозиторий:
 ```bash
-git clone https://github.com/username/my-django-project.git
+git clone https://github.com/username/lidiaakorovkinaa/django.git
 ```
 
 2. Установить зависимости:
